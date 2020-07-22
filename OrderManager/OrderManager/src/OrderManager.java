@@ -7,6 +7,12 @@ import java.awt.event.*;
 import javax.swing.*;
 import com.sun.java.swing.plaf.windows.*;
 
+/**
+*
+* @author Samuel Holguin - 20161020044	
+*         Kevin Rocha - 20161020086
+*/
+
 public class OrderManager extends JFrame {
 
     public static final String newline = "\n";

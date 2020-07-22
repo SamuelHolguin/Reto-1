@@ -3,7 +3,8 @@ import java.util.*;
 
 /**
  *
- * @author Samuel Holguin y Kevin Rocha
+ * @author Samuel Holguin - 20161020044	
+ *         Kevin Rocha - 20161020086
  */
 public class AllOrders {
     //private static AllOrders AO;
